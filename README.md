@@ -4,7 +4,7 @@ A hazard is defined as “an unsafe condition or practice that could result in a
 
 Accident prevention is a large part of safety it is essential to ensure that all hazards are identified, addressed and accidents are prevented before they occur.  
 
-! [Regions by Acitivity](https://github.com/toyinolape/Hazard_Report/blob/master/Capture.PNG)
+![Regions by Acitivity](https://github.com/toyinolape/Hazard_Report/blob/master/Capture.PNG)
 
 ## About the Report 
 
