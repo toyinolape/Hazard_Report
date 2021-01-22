@@ -1,0 +1,363 @@
+,Unnamed: 0,Activity:,Cause:,Country:,Employer:,Fatalities:,Location:,Region:,Year:
+0,0,Transport - Land,Struck by,RUSSIA,Company,1,Onshore,Russia & Central Asia,2008
+1,1,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",BRUNEI,Contractor,1,Onshore,Asia/Australasia,2004
+2,2,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",ARGENTINA,Contractor,1,Onshore,South & Central America,2015
+3,3,"Maintenance, inspection, testing",Falls from height,MEXICO,Company,1,Onshore,North America,2000
+4,4,Transport - Land,Struck by,ROMANIA,Company,1,Onshore,Europe,2008
+5,5,Unspecified - other,"Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Offshore,North America,2001
+6,6,"Maintenance, inspection, testing",Pressure release,USA,Contractor,1,Onshore,North America,2006
+7,7,"Maintenance, inspection, testing",Confined space,NIGERIA,Contractor,3,Onshore,Africa,2009
+8,8,Transport - Land,Struck by,ROMANIA,Company,1,Onshore,Europe,2006
+9,9,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",INDONESIA,Contractor,1,Offshore,Asia/Australasia,2007
+10,10,"Lifting, crane, rigging, deck operations",Struck by,LIBYA,Contractor,1,Onshore,Africa,2004
+12,12,Transport - Land,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2006
+13,13,Unspecified - other,"Exposure noise, chemical, biological, vibration",MEXICO,Company,1,Onshore,North America,2015
+14,14,Transport - Land,Struck by,SYRIA,Contractor,0,Onshore,Middle East,2002
+16,16,Transport - Air,Other,GABON,Contractor,2,Onshore,Africa,2012
+17,17,"Office, warehouse, accommodation, catering",Explosions or burns,NIGERIA,Contractor,1,Onshore,Africa,2002
+18,18,"Maintenance, inspection, testing","Caught in, under or between (excl. dropped objects)",BRAZIL,Contractor,1,Offshore,South & Central America,2014
+19,19,"Drilling, workover, well services",Falls from height,BRAZIL,Contractor,1,Offshore,South & Central America,2013
+20,20,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",YEMEN,Contractor,1,Onshore,Middle East,2008
+21,21,"Construction, commissioning, decommissioning",Struck by,NIGERIA,Contractor,1,Onshore,Africa,2000
+22,22,Transport - Land,Struck by,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2004
+23,23,"Maintenance, inspection, testing",Falls from height,MEXICO,Company,1,Onshore,North America,2000
+25,25,Transport - Air,Other,GABON,Contractor,2,Onshore,Africa,2012
+26,26,"Construction, commissioning, decommissioning",Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2007
+27,27,Unspecified - other,Other,TRINIDAD & TOBAGO,Contractor,1,Onshore,South & Central America,2002
+28,28,Transport - Land,Struck by,NIGERIA,no data,0,no data,Africa,2006
+29,29,"Lifting, crane, rigging, deck operations",Struck by,ALGERIA,Contractor,1,Onshore,Africa,2008
+30,30,"Lifting, crane, rigging, deck operations",Struck by,LIBYA,Contractor,1,Onshore,Africa,2004
+31,31,"Construction, commissioning, decommissioning",Confined space,AUSTRALIA,Contractor,2,Onshore,Asia/Australasia,2016
+32,32,Unspecified - other,Other,USA,Contractor,2,Onshore,North America,2013
+33,33,Unspecified - other,Other,EGYPT,Company,1,Onshore,Africa,2004
+34,34,Transport - Land,Struck by,UAE,no data,0,no data,Middle East,2011
+35,35,"Diving, subsea, ROV",Other,NIGERIA,Company,1,Onshore,Africa,2015
+36,36,Production operations,Pressure release,NIGERIA,Contractor,1,Offshore,Africa,2011
+37,37,Transport - Land,Struck by,CHAD,no data,0,no data,Africa,2008
+38,38,Unspecified - other,Other,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2002
+39,39,Transport - Land,Struck by,NIGERIA,Contractor,1,Onshore,Africa,2003
+40,40,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",VENEZUELA,Contractor,1,Onshore,South & Central America,2001
+41,41,Transport - Land,Struck by,UAE,Contractor,1,Onshore,Middle East,2009
+42,42,"Maintenance, inspection, testing",Struck by,CHINA,Company,1,Offshore,Asia/Australasia,2018
+43,43,"Maintenance, inspection, testing",Exposure electrical,IRAN,Contractor,1,Onshore,Middle East,2004
+44,44,Unspecified - other,Assault or violent act,NIGERIA,Contractor,1,Onshore,Africa,2000
+46,46,"Drilling, workover, well services",Falls from height,NIGERIA,Contractor,1,Offshore,Africa,2009
+47,47,Transport - Land,Struck by,ANGOLA,Contractor,0,Onshore,Africa,2002
+48,48,"Drilling, workover, well services",Struck by,NIGERIA,Contractor,1,Onshore,Africa,2004
+49,49,Transport - Land,Struck by,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2006
+50,50,Seismic / survey operations,"Caught in, under or between (excl. dropped objects)",TUNISIA,Contractor,1,Onshore,Africa,2014
+51,51,Seismic / survey operations,Assault or violent act,COLOMBIA,Contractor,1,Onshore,South & Central America,2007
+52,52,"Drilling, workover, well services",Falls from height,BRAZIL,Contractor,1,Offshore,South & Central America,2013
+53,53,Transport - Land,Struck by,OMAN,Company,1,Onshore,Middle East,2001
+54,54,Transport - Land,Struck by,OMAN,Contractor,1,Onshore,Middle East,2006
+55,55,Production operations,Explosions or burns,MEXICO,Company,7,Offshore,North America,2015
+56,56,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",ARGENTINA,Contractor,1,Onshore,South & Central America,2011
+57,57,"Drilling, workover, well services",Falls from height,VENEZUELA,Contractor,1,Onshore,South & Central America,2000
+58,58,"Construction, commissioning, decommissioning",Confined space,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2006
+59,59,"Maintenance, inspection, testing",Other,MEXICO,Company,1,Onshore,North America,2002
+60,60,"Maintenance, inspection, testing",Struck by,ALGERIA,Contractor,1,Onshore,Africa,2004
+61,61,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",QATAR,Contractor,2,Onshore,Middle East,2009
+62,62,Transport - Land,Struck by,INDONESIA,Contractor,1,Onshore,Asia/Australasia,2001
+63,63,"Maintenance, inspection, testing",Pressure release,VENEZUELA,Contractor,1,Onshore,South & Central America,2000
+64,64,Transport - Land,Struck by,KAZAKHSTAN,Company,0,Onshore,Russia & Central Asia,2001
+65,65,Unspecified - other,"Caught in, under or between (excl. dropped objects)",PHILIPPINES,Contractor,1,Offshore,Asia/Australasia,2000
+66,66,Transport - Land,Struck by,USA,Contractor,1,Onshore,North America,2015
+67,67,"Drilling, workover, well services",Struck by,USA,Contractor,1,Onshore,North America,2011
+68,68,"Maintenance, inspection, testing",Pressure release,INDIA,Company,1,Onshore,Asia/Australasia,2009
+69,69,"Transport - Water, incl. marine activity","Water related, drowning",MALAYSIA,no data,0,no data,Asia/Australasia,2006
+70,70,Seismic / survey operations,"Caught in, under or between (excl. dropped objects)",PAPUA NEW GUINEA,Contractor,1,Onshore,Asia/Australasia,2011
+71,71,"Transport - Water, incl. marine activity",Struck by,QATAR,Contractor,1,Offshore,Middle East,2007
+72,72,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",QATAR,Contractor,1,Onshore,Middle East,2011
+73,73,"Maintenance, inspection, testing",Explosions or burns,NETHERLANDS,Contractor,2,Onshore,Europe,2005
+74,74,Production operations,"Caught in, under or between (excl. dropped objects)",CANADA,Contractor,1,Onshore,North America,2011
+76,76,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",CANADA,Contractor,1,Onshore,North America,2001
+77,77,"Office, warehouse, accommodation, catering",Explosions or burns,NIGERIA,Contractor,1,Onshore,Africa,2002
+78,78,"Lifting, crane, rigging, deck operations",Struck by,USA,Contractor,1,Onshore,North America,2003
+79,79,"Maintenance, inspection, testing",Falls from height,UAE,Contractor,1,Offshore,Middle East,2002
+81,81,"Maintenance, inspection, testing",Struck by,USA,Contractor,1,Onshore,North America,2005
+82,82,Transport - Land,Struck by,NIGERIA,no data,0,no data,Africa,2012
+83,83,"Office, warehouse, accommodation, catering","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2008
+84,84,Transport - Land,Struck by,PAKISTAN,Contractor,0,Onshore,Asia/Australasia,2002
+86,86,Transport - Land,Struck by,USA,Company,1,Onshore,North America,2000
+87,87,Transport - Land,Struck by,INDONESIA,no data,0,no data,Asia/Australasia,2010
+89,89,Transport - Air,Struck by,USA,no data,2,Offshore,North America,1999
+92,92,Transport - Air,Struck by,VENEZUELA,Contractor,2,Onshore,South & Central America,1991
+93,93,Transport - Land,Assault or violent act,NIGERIA,no data,1,Onshore,Africa,1999
+102,102,Transport - Land,Struck by,VENEZUELA,no data,1,Onshore,South & Central America,1999
+106,106,Transport - Land,Struck by,NIGERIA,no data,0,Onshore,Africa,1999
+115,115,Transport - Land,Struck by,NIGERIA,no data,0,Onshore,Africa,1999
+118,118,Transport - Land,Struck by,LIBYA,Contractor,1,Onshore,Africa,2005
+119,119,"Construction, commissioning, decommissioning",Struck by,CANADA,Contractor,1,Onshore,North America,2013
+120,120,"Maintenance, inspection, testing",Struck by,ARGENTINA,Contractor,1,Onshore,South & Central America,2007
+121,121,Transport - Land,"Caught in, under or between (excl. dropped objects)",SUDAN,Contractor,1,Onshore,Africa,2001
+122,122,Transport - Air,Other,NIGERIA,Contractor,4,Onshore,Africa,2003
+123,123,Transport - Land,Struck by,ALGERIA,Contractor,1,Onshore,Africa,2014
+124,124,"Maintenance, inspection, testing","Caught in, under or between (excl. dropped objects)",BRAZIL,Contractor,1,Offshore,South & Central America,2018
+125,125,"Maintenance, inspection, testing",Struck by,INDONESIA,Contractor,1,Onshore,Asia/Australasia,2007
+126,126,Transport - Land,Struck by,EGYPT,Company,1,Onshore,Africa,2003
+127,127,"Drilling, workover, well services",Falls from height,MEXICO,Contractor,1,Offshore,North America,2014
+128,128,"Construction, commissioning, decommissioning",Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2006
+129,129,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",UK,Contractor,1,Offshore,Europe,2000
+130,130,Transport - Land,Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2016
+131,131,Transport - Land,Struck by,NIGERIA,Contractor,1,Onshore,Africa,2014
+132,132,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",NIGERIA,Contractor,1,Onshore,Africa,2012
+133,133,"Transport - Water, incl. marine activity","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2006
+134,134,"Transport - Water, incl. marine activity",Struck by,MALAYSIA,Contractor,1,Offshore,Asia/Australasia,2005
+135,135,Transport - Land,Struck by,CHAD,Company,0,Onshore,Africa,2005
+136,136,"Lifting, crane, rigging, deck operations",Struck by,CANADA,Contractor,1,Onshore,North America,2004
+137,137,Transport - Air,Other,MYANMAR,Contractor,3,Offshore,Asia/Australasia,2011
+138,138,Transport - Land,"Caught in, under or between (excl. dropped objects)",GUATEMALA,no data,0,no data,South & Central America,2009
+139,139,Transport - Land,Struck by,NIGERIA,Company,0,Onshore,Africa,2000
+140,140,"Maintenance, inspection, testing",Falls from height,NIGERIA,Contractor,1,Onshore,Africa,2005
+141,141,"Construction, commissioning, decommissioning","Water related, drowning",INDONESIA,Contractor,1,Onshore,Asia/Australasia,2006
+142,142,Transport - Land,Assault or violent act,IRAQ,Contractor,1,Onshore,Middle East,2010
+143,143,"Lifting, crane, rigging, deck operations",Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2007
+144,144,Transport - Air,Other,UK,Contractor,4,Offshore,Europe,2013
+145,145,Transport - Land,Struck by,ROMANIA,Company,1,Onshore,Europe,2008
+146,146,Transport - Land,Falls from height,ROMANIA,Company,1,Onshore,Europe,2010
+147,147,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",MALAYSIA,Contractor,1,Offshore,Asia/Australasia,2008
+148,148,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",GABON,Company,1,Onshore,Africa,2010
+149,149,Transport - Land,Struck by,INDONESIA,no data,0,no data,Asia/Australasia,2007
+150,150,"Construction, commissioning, decommissioning",Struck by,QATAR,Contractor,1,Onshore,Middle East,2010
+151,151,Transport - Land,Struck by,PAKISTAN,Company,0,Onshore,Asia/Australasia,2003
+152,152,"Lifting, crane, rigging, deck operations",Falls from height,CHINA,Contractor,1,Offshore,Asia/Australasia,2009
+153,153,Unspecified - other,Other,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2002
+154,154,"Construction, commissioning, decommissioning",Falls from height,IRAN,Contractor,1,Onshore,Middle East,2003
+155,155,"Drilling, workover, well services",Struck by,CAMEROUN,Contractor,1,Offshore,Africa,2013
+156,156,Transport - Land,Exposure electrical,PAKISTAN,Contractor,1,Onshore,Asia/Australasia,2007
+157,157,Transport - Land,Struck by,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2006
+158,158,Unspecified - other,Falls from height,NIGERIA,Contractor,0,Onshore,Africa,2000
+159,159,"Transport - Water, incl. marine activity","Water related, drowning",UK,Contractor,8,Offshore,Europe,2007
+160,160,Transport - Land,Struck by,VENEZUELA,Company,1,Onshore,South & Central America,2006
+161,161,"Construction, commissioning, decommissioning",Confined space,AUSTRALIA,Contractor,1,Onshore,Asia/Australasia,2017
+162,162,"Maintenance, inspection, testing",Struck by,ARGENTINA,Contractor,1,Onshore,South & Central America,2004
+163,163,"Construction, commissioning, decommissioning",Pressure release,KUWAIT,Contractor,1,Onshore,Middle East,2005
+164,164,"Lifting, crane, rigging, deck operations",Exposure electrical,MALAYSIA,Contractor,1,Offshore,Asia/Australasia,2014
+165,165,"Construction, commissioning, decommissioning",Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2003
+166,166,"Transport - Water, incl. marine activity",Assault or violent act,NIGERIA,Contractor,1,Offshore,Africa,2008
+168,168,Transport - Land,Struck by,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2007
+169,169,Transport - Land,Struck by,OMAN,Contractor,1,Onshore,Middle East,2001
+170,170,"Drilling, workover, well services",Falls from height,CHINA,Contractor,1,Offshore,Asia/Australasia,2014
+171,171,"Drilling, workover, well services",Struck by,EGYPT,Contractor,1,Onshore,Africa,2003
+172,172,Transport - Land,Struck by,NIGERIA,Company,0,Onshore,Africa,2007
+173,173,Seismic / survey operations,Struck by,PERU,Contractor,1,Onshore,South & Central America,2010
+174,174,"Transport - Water, incl. marine activity","Water related, drowning",USA,Contractor,1,Offshore,North America,2004
+175,175,"Lifting, crane, rigging, deck operations",Struck by,YEMEN,Contractor,1,Onshore,Middle East,2008
+176,176,Seismic / survey operations,Struck by,CANADA,Contractor,1,Onshore,North America,2001
+177,177,Transport - Land,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2007
+178,178,"Construction, commissioning, decommissioning",Explosions or burns,COLOMBIA,Contractor,3,Onshore,South & Central America,2008
+179,179,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",MEXICO,Contractor,1,Onshore,North America,2012
+180,180,Transport - Land,Struck by,ARGENTINA,Contractor,1,Onshore,South & Central America,2000
+181,181,Transport - Air,Other,UK,Contractor,16,Onshore,Europe,2009
+182,182,"Maintenance, inspection, testing",Explosions or burns,CONGO,Company,1,Offshore,Africa,2009
+183,183,Transport - Land,Struck by,UAE,Contractor,1,Onshore,Middle East,2010
+184,184,Transport - Land,Struck by,YEMEN,Contractor,1,Onshore,Middle East,2005
+185,185,Production operations,Pressure release,BRAZIL,Contractor,1,Onshore,South & Central America,2010
+186,186,Transport - Land,Struck by,MEXICO,Contractor,1,Onshore,North America,2002
+187,187,"Lifting, crane, rigging, deck operations",Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2000
+188,188,Transport - Land,Falls from height,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2006
+189,189,"Construction, commissioning, decommissioning",Explosions or burns,MEXICO,Contractor,1,Offshore,North America,2015
+190,190,"Transport - Water, incl. marine activity",Struck by,IRAN,Contractor,1,Offshore,Middle East,2008
+191,191,"Construction, commissioning, decommissioning","Water related, drowning",RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2014
+192,192,Transport - Air,Other,MEXICO,Company,1,Offshore,North America,2003
+194,194,"Office, warehouse, accommodation, catering","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2008
+195,195,"Maintenance, inspection, testing",Pressure release,RUSSIA,Company,1,Onshore,Russia & Central Asia,2005
+196,196,Transport - Land,Struck by,TUNISIA,Company,0,Onshore,Africa,2004
+197,197,Transport - Land,Struck by,INDIA,no data,0,no data,Asia/Australasia,2007
+198,198,Transport - Land,Struck by,ROMANIA,no data,0,no data,Europe,2010
+199,199,Transport - Land,Struck by,ARGENTINA,Contractor,2,Onshore,South & Central America,2003
+200,200,"Drilling, workover, well services",Falls from height,USA,Contractor,1,Onshore,North America,2005
+201,201,"Drilling, workover, well services",Struck by,UK,Contractor,1,Offshore,Europe,2001
+203,203,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",MEXICO,Contractor,1,Onshore,North America,2002
+204,204,Transport - Land,Struck by,ROMANIA,no data,0,no data,Europe,2009
+205,205,Transport - Land,"Caught in, under or between (excl. dropped objects)",RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2003
+206,206,Production operations,"Water related, drowning",MALAYSIA,Company,1,Offshore,Asia/Australasia,2012
+207,207,Seismic / survey operations,Struck by,PAPUA NEW GUINEA,Contractor,1,Onshore,Asia/Australasia,2011
+208,208,Unspecified - other,Struck by,MEXICO,Contractor,1,Onshore,North America,2003
+209,209,"Maintenance, inspection, testing",Explosions or burns,AZERBAIJAN,Contractor,1,Onshore,Russia & Central Asia,2006
+210,210,"Drilling, workover, well services","Exposure noise, chemical, biological, vibration",VENEZUELA,Contractor,1,Onshore,South & Central America,2006
+212,212,Transport - Land,Struck by,ANGOLA,Contractor,0,Onshore,Africa,2005
+213,213,Unspecified - other,"Water related, drowning",ALGERIA,Contractor,1,Onshore,Africa,2002
+214,214,"Lifting, crane, rigging, deck operations",Struck by,QATAR,Contractor,1,Onshore,Middle East,2008
+215,215,Transport - Land,Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2002
+216,216,"Construction, commissioning, decommissioning",Struck by,INDONESIA,Contractor,1,Onshore,Asia/Australasia,2012
+217,217,"Lifting, crane, rigging, deck operations",Struck by,MEXICO,Contractor,1,Offshore,North America,2001
+218,218,"Diving, subsea, ROV","Water related, drowning",INDONESIA,Contractor,1,Offshore,Asia/Australasia,2000
+219,219,Transport - Land,Struck by,OMAN,Contractor,1,Onshore,Middle East,2002
+220,220,"Lifting, crane, rigging, deck operations",Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2007
+221,221,"Drilling, workover, well services",Struck by,EGYPT,Contractor,1,Onshore,Africa,2007
+222,222,Transport - Land,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2010
+223,223,"Construction, commissioning, decommissioning",Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2007
+224,224,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",UK,Contractor,1,Offshore,Europe,2000
+225,225,"Construction, commissioning, decommissioning",Pressure release,USA,Contractor,1,Onshore,North America,2012
+226,226,Transport - Land,Struck by,SAUDI ARABIA,Company,1,Onshore,Middle East,2002
+227,227,Transport - Land,"Caught in, under or between (excl. dropped objects)",KUWAIT,Contractor,1,Onshore,Middle East,2013
+228,228,"Maintenance, inspection, testing","Caught in, under or between (excl. dropped objects)",UAE,Contractor,1,Onshore,Middle East,2011
+229,229,"Construction, commissioning, decommissioning",Explosions or burns,COLOMBIA,Contractor,3,Onshore,South & Central America,2008
+230,230,"Construction, commissioning, decommissioning","Water related, drowning",UAE,Contractor,1,Offshore,Middle East,2018
+231,231,Transport - Land,Struck by,KAZAKHSTAN,Company,1,Onshore,Russia & Central Asia,2017
+233,233,"Lifting, crane, rigging, deck operations",Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2000
+234,234,Production operations,Explosions or burns,MEXICO,Contractor,1,Onshore,North America,2014
+235,235,"Drilling, workover, well services",Falls from height,ARGENTINA,Contractor,1,Onshore,South & Central America,2009
+236,236,Transport - Land,"Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Onshore,North America,2012
+237,237,"Maintenance, inspection, testing",Struck by,AUSTRIA,Company,1,Onshore,Europe,2003
+238,238,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",QATAR,Contractor,1,Onshore,Middle East,2011
+239,239,"Diving, subsea, ROV","Water related, drowning",USA,Contractor,1,Offshore,North America,2002
+240,240,Transport - Land,"Caught in, under or between (excl. dropped objects)",NIGERIA,Contractor,1,Onshore,Africa,2018
+241,241,Transport - Land,Other,CANADA,no data,0,no data,North America,2007
+242,242,"Maintenance, inspection, testing",Explosions or burns,NIGERIA,Contractor,7,Onshore,Africa,2008
+243,243,Transport - Land,"Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Onshore,North America,2012
+244,244,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",BRAZIL,Contractor,1,Offshore,South & Central America,2008
+245,245,"Lifting, crane, rigging, deck operations",Struck by,USA,Contractor,1,Onshore,North America,2008
+246,246,"Maintenance, inspection, testing",Struck by,QATAR,Contractor,1,Onshore,Middle East,2004
+247,247,"Maintenance, inspection, testing",Exposure electrical,ROMANIA,Contractor,1,Onshore,Europe,2007
+248,248,Transport - Land,Struck by,NIGERIA,no data,0,no data,Africa,2008
+249,249,"Diving, subsea, ROV","Exposure noise, chemical, biological, vibration",MEXICO,Contractor,1,Offshore,North America,2001
+250,250,Seismic / survey operations,Other,PAKISTAN,Contractor,1,Onshore,Asia/Australasia,2001
+251,251,Transport - Land,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2007
+252,252,Transport - Land,Struck by,IRAN,Contractor,1,Onshore,Middle East,2003
+253,253,"Construction, commissioning, decommissioning",Other,USA,Company,1,Onshore,North America,2011
+254,254,Transport - Land,Struck by,KAZAKHSTAN,Company,1,Onshore,Russia & Central Asia,2017
+255,255,Transport - Land,Struck by,NIGERIA,Contractor,0,Onshore,Africa,2001
+256,256,"Drilling, workover, well services","Water related, drowning",RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2010
+257,257,"Construction, commissioning, decommissioning",Pressure release,KUWAIT,Contractor,1,Onshore,Middle East,2005
+258,258,Transport - Land,Struck by,EGYPT,Contractor,0,Onshore,Africa,2000
+259,259,"Maintenance, inspection, testing",Pressure release,VENEZUELA,Contractor,1,Offshore,South & Central America,2005
+260,260,"Drilling, workover, well services",Exposure electrical,BRAZIL,Contractor,1,Onshore,South & Central America,2012
+261,261,"Drilling, workover, well services",Falls from height,KUWAIT,Contractor,1,Onshore,Middle East,2004
+262,262,Transport - Land,"Caught in, under or between (excl. dropped objects)",LIBYA,Contractor,1,Onshore,Africa,2005
+263,263,"Drilling, workover, well services",Explosions or burns,ALGERIA,Contractor,1,Onshore,Africa,2018
+264,264,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",VENEZUELA,Contractor,1,Onshore,South & Central America,2005
+265,265,"Office, warehouse, accommodation, catering",Exposure electrical,OMAN,Contractor,1,Onshore,Middle East,2003
+266,266,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",ROMANIA,Company,1,Onshore,Europe,2009
+267,267,Transport - Land,Struck by,ARGENTINA,Contractor,1,Onshore,South & Central America,2002
+268,268,"Diving, subsea, ROV","Water related, drowning",INDONESIA,Contractor,1,Offshore,Asia/Australasia,2000
+269,269,"Transport - Water, incl. marine activity",Struck by,EGYPT,Contractor,1,Offshore,Africa,2003
+270,270,"Construction, commissioning, decommissioning",Falls from height,PAKISTAN,Contractor,1,Onshore,Asia/Australasia,2008
+271,271,"Construction, commissioning, decommissioning",Struck by,CANADA,Contractor,1,Onshore,North America,2006
+272,272,Transport - Land,"Caught in, under or between (excl. dropped objects)",KUWAIT,Company,1,Onshore,Middle East,2015
+273,273,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Onshore,North America,2007
+274,274,"Maintenance, inspection, testing",Exposure electrical,YEMEN,Contractor,1,Onshore,Middle East,2008
+275,275,"Transport - Water, incl. marine activity",Other,VIETNAM,Contractor,1,Offshore,Asia/Australasia,2006
+276,276,"Construction, commissioning, decommissioning",Struck by,UAE,Contractor,1,Onshore,Middle East,2012
+277,277,Unspecified - other,Other,GREECE,Contractor,1,Onshore,Europe,2000
+278,278,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Onshore,North America,2007
+279,279,Transport - Land,Struck by,OMAN,Company,1,Onshore,Middle East,2000
+280,280,Transport - Land,Falls from height,ROMANIA,Company,1,Onshore,Europe,2010
+281,281,Unspecified - other,Assault or violent act,YEMEN,no data,0,no data,Middle East,2010
+282,282,Unspecified - other,Other,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2000
+284,284,Transport - Land,Struck by,EGYPT,Contractor,1,Onshore,Africa,2008
+285,285,Transport - Land,Struck by,KAZAKHSTAN,Company,1,Onshore,Russia & Central Asia,2017
+286,286,"Transport - Water, incl. marine activity","Caught in, under or between (excl. dropped objects)",NIGERIA,Contractor,1,Offshore,Africa,2011
+287,287,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",YEMEN,Contractor,1,Onshore,Middle East,2008
+288,288,"Maintenance, inspection, testing",Struck by,BOLIVIA,Contractor,1,Onshore,South & Central America,2000
+289,289,Production operations,Explosions or burns,SAUDI ARABIA,Company,3,Onshore,Middle East,2007
+290,290,Transport - Land,Struck by,KUWAIT,Company,2,Onshore,Middle East,2003
+291,291,Transport - Land,Struck by,RUSSIA,no data,0,no data,Russia & Central Asia,2006
+292,292,Transport - Land,"Caught in, under or between (excl. dropped objects)",CHINA,Company,1,Offshore,Asia/Australasia,2003
+293,293,"Construction, commissioning, decommissioning",Falls from height,PAKISTAN,Contractor,1,Onshore,Asia/Australasia,2008
+294,294,Transport - Land,Struck by,INDONESIA,no data,0,no data,Asia/Australasia,2006
+295,295,Transport - Land,Struck by,RUSSIA,Company,3,Onshore,Russia & Central Asia,2009
+296,296,"Lifting, crane, rigging, deck operations",Falls from height,USA,Contractor,1,Offshore,North America,2000
+297,297,Seismic / survey operations,Assault or violent act,LIBYA,Contractor,1,Onshore,Africa,2009
+298,298,"Maintenance, inspection, testing",Confined space,RUSSIA,Contractor,2,Onshore,Russia & Central Asia,2005
+299,299,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",INDONESIA,Contractor,1,Offshore,Asia/Australasia,2007
+300,300,Transport - Land,"Caught in, under or between (excl. dropped objects)",CHAD,Contractor,1,Onshore,Africa,2004
+301,301,"Transport - Water, incl. marine activity",Falls from height,RUSSIA,Contractor,1,Offshore,Russia & Central Asia,2004
+303,303,"Drilling, workover, well services",Struck by,USA,Contractor,1,Onshore,North America,2011
+304,304,"Construction, commissioning, decommissioning","Caught in, under or between (excl. dropped objects)",ARGENTINA,Contractor,1,Onshore,South & Central America,2003
+305,305,"Office, warehouse, accommodation, catering",Struck by,CHAD,no data,0,no data,Africa,2006
+306,306,Production operations,Assault or violent act,YEMEN,Contractor,1,Onshore,Middle East,2006
+307,307,"Transport - Water, incl. marine activity","Water related, drowning",NIGERIA,Contractor,11,Offshore,Africa,2013
+308,308,"Maintenance, inspection, testing",Explosions or burns,ROMANIA,Company,2,Onshore,Europe,2010
+309,309,Transport - Land,Struck by,ANGOLA,Contractor,0,Onshore,Africa,2002
+310,310,"Maintenance, inspection, testing",Falls from height,MALAYSIA,Contractor,1,Onshore,Asia/Australasia,2014
+311,311,"Construction, commissioning, decommissioning",Struck by,ROMANIA,Contractor,1,Onshore,Europe,2009
+312,312,"Construction, commissioning, decommissioning",Struck by,QATAR,Contractor,1,Offshore,Middle East,2010
+313,313,Transport - Land,Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2002
+314,314,"Drilling, workover, well services",Falls from height,ROMANIA,Contractor,1,Onshore,Europe,2011
+315,315,Transport - Land,"Caught in, under or between (excl. dropped objects)",CHINA,Company,1,Offshore,Asia/Australasia,2003
+316,316,"Transport - Water, incl. marine activity","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2005
+317,317,"Office, warehouse, accommodation, catering",Assault or violent act,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2004
+318,318,"Transport - Water, incl. marine activity",Falls from height,BRAZIL,Contractor,1,Offshore,South & Central America,2014
+319,319,"Transport - Water, incl. marine activity","Caught in, under or between (excl. dropped objects)",NIGERIA,Contractor,1,Offshore,Africa,2011
+320,320,Transport - Land,Struck by,RUSSIA,no data,0,no data,Russia & Central Asia,2006
+321,321,Transport - Land,"Water related, drowning",CANADA,Contractor,1,Onshore,North America,2003
+322,322,Transport - Land,Struck by,KAZAKHSTAN,Company,0,Onshore,Russia & Central Asia,2001
+323,323,Transport - Land,"Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Onshore,North America,2012
+324,324,"Maintenance, inspection, testing",Exposure electrical,ROMANIA,Company,1,Onshore,Europe,2014
+326,326,"Drilling, workover, well services",Struck by,MEXICO,Contractor,1,Onshore,North America,2014
+327,327,Transport - Land,Struck by,SYRIA,Contractor,0,Onshore,Middle East,2002
+328,328,"Drilling, workover, well services",Struck by,MEXICO,Contractor,1,Onshore,North America,2012
+329,329,Transport - Land,"Caught in, under or between (excl. dropped objects)",UAE,Contractor,1,Onshore,Middle East,2011
+330,330,"Transport - Water, incl. marine activity","Caught in, under or between (excl. dropped objects)",NIGERIA,Contractor,1,Offshore,Africa,2011
+331,331,Unspecified - other,Other,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2002
+332,332,"Drilling, workover, well services",Falls from height,MEXICO,Company,1,Onshore,North America,2003
+333,333,"Diving, subsea, ROV","Exposure noise, chemical, biological, vibration",MEXICO,Contractor,1,Offshore,North America,2001
+334,334,"Lifting, crane, rigging, deck operations","Caught in, under or between (excl. dropped objects)",CONGO,Contractor,1,Onshore,Africa,2018
+335,335,"Maintenance, inspection, testing",Pressure release,USA,Contractor,1,Onshore,North America,2010
+336,336,Transport - Land,Struck by,CANADA,Contractor,1,Onshore,North America,2011
+337,337,"Lifting, crane, rigging, deck operations",Struck by,VENEZUELA,Contractor,1,Onshore,South & Central America,2000
+338,338,Transport - Air,Other,DRC - Democratic Republic of the Congo (formerly Zaire),Contractor,1,Offshore,Africa,2008
+339,339,"Transport - Water, incl. marine activity","Water related, drowning",CAMEROUN,Contractor,2,Offshore,Africa,2010
+340,340,Unspecified - other,Exposure electrical,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2001
+341,341,Unspecified - other,Explosions or burns,MEXICO,Contractor,1,Offshore,North America,2003
+342,342,Transport - Land,Struck by,ROMANIA,Contractor,2,Onshore,Europe,2008
+343,343,Transport - Land,Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2007
+344,344,"Lifting, crane, rigging, deck operations",Struck by,MALAYSIA,Contractor,1,Offshore,Asia/Australasia,2014
+345,345,Transport - Land,Struck by,OMAN,Contractor,1,Onshore,Middle East,2000
+346,346,Transport - Air,Other,MEXICO,Company,1,Offshore,North America,2003
+347,347,Unspecified - other,Other,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2000
+348,348,Transport - Land,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2004
+349,349,Transport - Land,Struck by,KAZAKHSTAN,Contractor,1,Onshore,Russia & Central Asia,2004
+350,350,Production operations,Explosions or burns,USA,Contractor,1,Onshore,North America,2017
+351,351,"Construction, commissioning, decommissioning",Exposure electrical,RUSSIA,Company,1,Onshore,Russia & Central Asia,2005
+352,352,"Diving, subsea, ROV","Water related, drowning",BRAZIL,Contractor,1,Offshore,South & Central America,2018
+353,353,Transport - Land,Struck by,LIBYA,Contractor,0,Onshore,Africa,2002
+354,354,"Drilling, workover, well services",Struck by,USA,Contractor,1,Onshore,North America,2006
+355,355,"Lifting, crane, rigging, deck operations",Struck by,ALGERIA,Contractor,1,Onshore,Africa,2003
+356,356,"Office, warehouse, accommodation, catering","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2006
+357,357,"Office, warehouse, accommodation, catering",Assault or violent act,YEMEN,Contractor,1,Onshore,Middle East,2010
+358,358,Transport - Land,Struck by,EGYPT,Company,1,Onshore,Africa,2003
+359,359,Seismic / survey operations,Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2010
+360,360,Transport - Land,Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2004
+361,361,Production operations,Falls from height,NIGERIA,Company,1,Offshore,Africa,2017
+362,362,"Construction, commissioning, decommissioning",Struck by,RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2011
+363,363,"Construction, commissioning, decommissioning",Falls from height,KUWAIT,Contractor,2,Onshore,Middle East,2018
+364,364,"Construction, commissioning, decommissioning",Falls from height,IRAN,Contractor,1,Onshore,Middle East,2003
+365,365,"Drilling, workover, well services",Struck by,THAILAND,Contractor,1,Offshore,Asia/Australasia,2010
+366,366,Transport - Land,"Caught in, under or between (excl. dropped objects)",RUSSIA,Contractor,1,Onshore,Russia & Central Asia,2003
+367,367,Transport - Land,Struck by,OMAN,Contractor,1,Onshore,Middle East,2000
+368,368,"Construction, commissioning, decommissioning",Struck by,QATAR,Contractor,1,Onshore,Middle East,2002
+369,369,"Maintenance, inspection, testing",Explosions or burns,NIGERIA,Contractor,1,Onshore,Africa,2008
+370,370,"Maintenance, inspection, testing",Falls from height,MEXICO,Company,1,Onshore,North America,2000
+371,371,"Transport - Water, incl. marine activity","Water related, drowning",NIGERIA,Contractor,1,Onshore,Africa,2000
+372,372,"Transport - Water, incl. marine activity",Struck by,GABON,Contractor,1,Onshore,Africa,2015
+373,373,Production operations,Falls from height,CHINA,Contractor,1,Offshore,Asia/Australasia,2012
+374,374,Transport - Land,Struck by,CHAD,no data,0,no data,Africa,2008
+375,375,Transport - Land,"Caught in, under or between (excl. dropped objects)",CHAD,Contractor,1,Onshore,Africa,2004
+376,376,"Construction, commissioning, decommissioning",Falls from height,KUWAIT,Contractor,1,Onshore,Middle East,2006
+377,377,"Drilling, workover, well services",Struck by,NORWAY,Contractor,1,Offshore,Europe,2002
+378,378,Transport - Land,Explosions or burns,PAKISTAN,no data,0,no data,Asia/Australasia,2018
+379,379,Seismic / survey operations,Struck by,PAPUA NEW GUINEA,Contractor,1,Onshore,Asia/Australasia,2011
+380,380,"Construction, commissioning, decommissioning","Water related, drowning",RUSSIA,Company,1,Onshore,Russia & Central Asia,2004
+381,381,"Construction, commissioning, decommissioning",Falls from height,EGYPT,Contractor,1,Onshore,Africa,2005
+382,382,Transport - Land,Struck by,QATAR,Contractor,2,Onshore,Middle East,2000
+383,383,"Drilling, workover, well services",Explosions or burns,ROMANIA,Contractor,1,Onshore,Europe,2006
+384,384,"Transport - Water, incl. marine activity",Struck by,ANGOLA,Contractor,1,Offshore,Africa,2012
+385,385,Transport - Land,Struck by,AZERBAIJAN,no data,0,no data,Russia & Central Asia,2016
+386,386,"Drilling, workover, well services","Caught in, under or between (excl. dropped objects)",USA,Contractor,1,Offshore,North America,2017
+387,387,Transport - Land,Struck by,KAZAKHSTAN,Contractor,0,Onshore,Russia & Central Asia,2006
+388,388,"Construction, commissioning, decommissioning",Pressure release,KUWAIT,Contractor,1,Onshore,Middle East,2005
+389,389,"Transport - Water, incl. marine activity",Falls from height,RUSSIA,Contractor,1,Offshore,Russia & Central Asia,2004
+390,390,Transport - Air,Other,BRAZIL,Company,3,Onshore,South & Central America,2009
+391,391,Unspecified - other,Assault or violent act,INDONESIA,Company,1,Onshore,Asia/Australasia,2002
+392,392,"Transport - Water, incl. marine activity",Struck by,EGYPT,Contractor,1,Offshore,Africa,2002
+393,393,Transport - Land,Struck by,CHAD,Company,0,Onshore,Africa,2007
+394,394,Transport - Land,Struck by,YEMEN,no data,0,no data,Middle East,2007
+395,395,Transport - Land,Struck by,ROMANIA,no data,0,no data,Europe,2010
+396,396,"Drilling, workover, well services",Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2016
+397,397,"Drilling, workover, well services",Struck by,UAE,Contractor,1,Offshore,Middle East,2005
+398,398,Transport - Land,Struck by,PAKISTAN,Contractor,0,Onshore,Asia/Australasia,2002
+399,399,"Construction, commissioning, decommissioning",Falls from height,ALGERIA,Contractor,1,Onshore,Africa,2011
+400,400,Transport - Land,Struck by,KUWAIT,Contractor,1,Onshore,Middle East,2000
